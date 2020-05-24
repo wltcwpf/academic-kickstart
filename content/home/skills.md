@@ -28,7 +28,7 @@ subtitle = ""
 
 [[feature]]
   icon = "database"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "MySql"
   description = "Intermediate proficiency"
   
