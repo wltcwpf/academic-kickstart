@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "UCLA"
   company_url = ""
   location = "California, Los Angeles"
-  date_start = "2017-06"
-  date_end = "Present"
+  date_start = "2017-06-01"
+  date_end = ""
   description = """
   Responsibilities include:
   
@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "UCLA"
   company_url = ""
   location = "California, Los Angeles"
-  date_start = "Fall 2016"
-  date_end = "Winter 2020"
+  date_start = "2016-10-01"
+  date_end = "2020-04-01"
   description = """
   Courses include:
 
@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Remote"
   date_start = "2020-04-01"
-  date_end = "Present"
+  date_end = ""
   description = """
   Responsibilities include:
 
