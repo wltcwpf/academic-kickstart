@@ -22,8 +22,8 @@ bio: My research interests include seismic site response, applied statistics, an
 
 interests:
 - Engineering Seismology
+- Geotechnical Earthquake Engineering
 - Applied Statistics
-- Earthquake Motions Processing
 
 education:
   courses:
@@ -67,4 +67,5 @@ user_groups:
 - Visitors
 ---
 
-Pengfei Wang is a Ph.D. candidate in Civil Engineering at the University of California, Los Angeles. His research interests include Engineering Seismology, Applied Statistics, and Earthquake Motions Processing. 
+Pengfei Wang is a Ph.D. candidate in Civil Engineering at the University of California, Los Angeles. His research interests include Engineering Seismology, Geotechnical Earthquake Engineering, and Applied Statistics, with emphases on non-ergodic site response models, earthquake ground motion processing and characterization, geo-spatial analysis, and statistical learning and modeling in engineering applications. 
+

@@ -18,27 +18,48 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Graduate Student Researcher"
+  company = "UCLA"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "California, Los Angeles"
+  date_start = "2017-06"
+  date_end = "Present"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Studying data-derived site response and their predictabilities using geotechnical and statistical models
+  * Developing R/Python packages for earthquake related research
+  * Analyzing spatial pattern of seismic site response 
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Teaching Assistant/Associate"
+  company = "UCLA"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "California, Los Angeles"
+  date_start = "Fall 2016"
+  date_end = "Winter 2020"
+  description = """
+  Courses include:
+
+  * Design of Foundations and Earth Structures (CEE 121), Winter 2019/2020
+  * Principles of Soil Mechanics (CEE 120), Fall 2016
+  * Introduction to Monte Carlo Methods (Stats 102C), Fall 2019
+  """
+
+[[experience]]
+  title = "Data Scientist"
+  company = "B2P"
+  company_url = ""
+  location = "Remote"
+  date_start = "2020-04-01"
+  date_end = "Present"
+  description = """
+  Responsibilities include:
+
+  * Data pulling and cleaning
+  * Data analysis and modeling 
+  * Data visualization
+  """
 
 +++
