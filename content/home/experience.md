@@ -47,19 +47,19 @@ date_format = "Jan 2006"
   * Introduction to Monte Carlo Methods (Stats 102C), Fall 2019
   """
 
-[[experience]]
-  title = "Data Scientist"
-  company = "B2P"
-  company_url = ""
-  location = "Remote"
-  date_start = "2020-04-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
+#[[experience]]
+#  title = "Data Scientist"
+#  company = "B2P"
+#  company_url = ""
+#  location = "Remote"
+#  date_start = "2020-04-01"
+#  date_end = ""
+#  description = """
+#  Responsibilities include:
 
-  * Data pulling and cleaning
-  * Data analysis and modeling 
-  * Data visualization
-  """
+#  * Data pulling and cleaning
+#  * Data analysis and modeling 
+#  * Data visualization
+#  """
 
 +++
