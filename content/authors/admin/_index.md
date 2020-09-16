@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. in Civil Engineering and M.S. in Statistics
+role: Postdoctoral Scholar in Civil Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -29,10 +29,10 @@ education:
   courses:
   - course: PhD in Civil Engineering
     institution: University of California, Los Angeles
-    year: Expect 2020
+    year: 2020
   - course: M.S. in Statistics
     institution: University of California, Los Angeles
-    year: Expect 2020
+    year: 2020
   - course: BSc in Transportation Engineering
     institution: Tongji University, Shanghai, China
     year: 2015
@@ -67,5 +67,5 @@ user_groups:
 - Visitors
 ---
 
-Pengfei Wang is a Ph.D. candidate in Civil Engineering at the University of California, Los Angeles. His research interests include Engineering Seismology, Geotechnical Earthquake Engineering, and Applied Statistics, with emphases on non-ergodic site response models, earthquake ground motion processing and characterization, geo-spatial analysis, and statistical learning and modeling in engineering applications. 
+Pengfei Wang is a postdoctoral research scholar in Civil Engineering at the University of California, Los Angeles (UCLA). He recently graduated and received his Ph.D. also from UCLA. His research interests include Engineering Seismology, Geotechnical Earthquake Engineering, and Applied Statistics, with emphases on non-ergodic site response models, earthquake ground motion processing and characterization, geo-spatial analysis, and statistical learning and modeling in engineering applications. 
 
