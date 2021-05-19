@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Civil Engineering
+  - course: Ph.D. in Civil Engineering
     institution: University of California, Los Angeles
     year: 2020
   - course: M.S. in Statistics
