@@ -18,18 +18,33 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Postdoctoral Researcher"
+  company = "UCLA"
+  company_url = ""
+  location = "California, Los Angeles"
+  date_start = "2020-10-01"
+  date_end = ""
+  description = """
+  Research includes:
+  
+  * Developing a framework and an algorithm to process and characterize Horizontal-to-Vertical Spectral Ratio (HVSR)
+  * Analyzing vertical arrays and developing regional nonlinear site response models for the Delta region in California
+  * Conducting scenario events and ground motion maps selection and scenario-based probabilistic seismic hazard analysis on distributed infrastructure systems
+  * Developing large-scale displacements model induced by landslide and liquefaction
+  """
+
+[[experience]]
   title = "Graduate Student Researcher"
   company = "UCLA"
   company_url = ""
   location = "California, Los Angeles"
   date_start = "2017-06-01"
-  date_end = ""
+  date_end = "2020-09-15"
   description = """
-  Responsibilities include:
+  Research includes:
   
-  * Studying data-derived site response and their predictabilities using geotechnical and statistical models
-  * Developing R/Python packages for earthquake related research
-  * Analyzing spatial pattern of seismic site response 
+  * Studied and evaluated the performance of predictive linear site response models, including ergodic site amplifications from Ground Motion Models (GMMs), Ground Response Analysis (GRA), square-root-impedance (SRI), and HVSR-informed model, in California.
+  * Conducted an analysis of site response and developed a region-specific model for soft peaty organic soil sites in Hokkaido, Japan.
   """
 
 [[experience]]

@@ -21,8 +21,8 @@ organizations:
 bio: My research interests include seismic site response, applied statistics, and ground motions processing.
 
 interests:
+- Geotechnical Engineering
 - Engineering Seismology
-- Geotechnical Earthquake Engineering
 - Applied Statistics
 
 education:
@@ -36,6 +36,9 @@ education:
   - course: BSc in Transportation Engineering
     institution: Tongji University, Shanghai, China
     year: 2015
+  - course: Visiting Student in Transportation Engineering
+    institution: École polytechnique fédérale de Lausanne ‐ EPFL, Switzerland
+    year: 2015.01-2015.06
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,5 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Pengfei Wang is a postdoctoral research scholar in Civil Engineering at the University of California, Los Angeles (UCLA). He recently graduated and received his Ph.D. also from UCLA. His research interests include Engineering Seismology, Geotechnical Earthquake Engineering, and Applied Statistics, with emphases on non-ergodic site response models, earthquake ground motion processing and characterization, geo-spatial analysis, and statistical learning and modeling in engineering applications. 
+Pengfei Wang is a postdoctoral research scholar in Civil Engineering at the University of California, Los Angeles (UCLA). He recently graduated and received his Ph.D. also from UCLA. His research interests include Geotechnical Engineering, Engineering Seismology, and Applied Statistics, with emphases on non-ergodic site response models, earthquake ground motion processing and characterization, geo-spatial analysis, and statistical learning and modeling in engineering applications. 
 
