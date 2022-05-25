@@ -1,11 +1,41 @@
 ---
-title: "Shear Wave Velocity Database and Its Application for Analysis of Non-Ergodic Site Amplification Effects"
-date: 2019-01-01
-publishDate: 2020-05-24T20:17:40.757059Z
-authors: ["Pengfei Wang", "Paolo Zimmaro", "Sean K Ahdi", "Dong Youp Kwak", "Jonathan P Stewart"]
-publication_types: ["4"]
-abstract: "This project was comprised of two distinct yet mutually beneficial tasks. The first was the establishment of a United States Community VS Profile Database (PDB). The second involved the use of that database to support ground motion studies that establish observation-based site response at ground motion recording stations and then seek to establish the degree to which it can be estimated using alternate prediction approaches. The development of the PDB has been, and continues as, a major multi-institutional effort to develop an open-access VS profile database for sites in the United States. The data described herein was collected from diverse sources that include consulting engineering reports from private industry, university research reports and other documents, federal open-file and similar reports, California state agency documents, and reports provided by electric utilities for selected sites. All data are strictly within the public domain, but much of it was for practical purposes inaccessible to most potential users. The VS data sources encompass a wide array of geophysical techniques, are presented in many different formats, and are accompanied by widely divergent supplementary data, including P-wave velocities, geotechnical logs and other data, and penetration test data. A relational database schema of sufficient breadth and flexibility was developed to accommodate this diverse data set. The data are digitized and otherwise prepared in the standardized format specified by the database schema. A web interface (www.uclageo.com/VPDB) was developed for data query, visualization, and download. This resource is anticipated to be useful to geotechnical engineers and engineering seismologists for diverse applications in research and industry practice. We derive non-ergodic site response for California sites using an expanded version of the NGA-West2 database. We then investigate the degree to which different site response analysis methods capture observations. An ergodic site term conditioned on time-averaged shear wave velocity in the upper 30 m of sites (VS30) and basin depth provides a baseline against which other models are compared. In this study, we have investigated two site-specific models: ground response analysis (GRA) and square root impedance (SRI) method. These analyses are performed for sites meeting certain data availability requirements pertaining to number of recorded events and availability of site-specific VS measurements from the PDB. We describe procedures developed to implement each approach, including protocols developed to assign unknown soil parameters. We describe a series of representative results for site with and without good fits of model predictions to observations. We compile results across sites to identify parameters that influence the effectiveness of ground response analyses and the epistemic uncertainty associated with different methods of site response prediction."
-featured: false
-publication: ""
----
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
+title: Data-derived Site Response and its Predictability using Ergodic and Site-specific
+  Methods
+subtitle: ''
+summary: ''
+authors:
+- Pengfei Wang
+- Jonathan P Stewart
+tags: []
+categories: []
+date: '2019-01-01'
+lastmod: 2022-01-18T11:32:50-08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-01-18T19:32:50.378276Z'
+publication_types:
+- '1'
+abstract: ''
+publication: '*Proceeding of SMIP2019 Seminar on Utilization of Strong Motion Data,
+  California Strong Motion Instrumentation Program, UCLA, CA. October 18.*'
+links:
+- name: URL
+  url: https://escholarship.org/uc/item/3wb9h9fq
+---

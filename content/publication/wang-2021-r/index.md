@@ -1,18 +1,21 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Applications of Non-ergodic Site Response in Ground Motion Modeling
+title: 'Horizontal-to-vertical Spectral Ratios from California Sites: Open-source
+  Database and Data Interpretation to Establish Site Parameters'
 subtitle: ''
 summary: ''
 authors:
-- Jonathan Stewart
 - Pengfei Wang
-- David P Teague
-- Alessia Vecchietti
+- Paolo Zimmaro
+- Tatiana Gospe
+- Sean K. Ahdi
+- Alan Yong
+- Jonathan P. Stewart
 tags: []
 categories: []
-date: '2019-01-01'
-lastmod: 2022-01-18T11:32:50-08:00
+date: '2021-01-01'
+lastmod: 2022-01-18T11:32:51-08:00
 featured: false
 draft: false
 
@@ -30,14 +33,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-18T19:32:50.535963Z'
+publishDate: '2022-01-18T19:32:50.855706Z'
 publication_types:
-- '1'
+- '4'
 abstract: ''
-publication: '*Earthquake Geotechnical Engineering for Protection and Development
-  of Environment and Constructions: Proceedings of the 7th International Conference
-  on Earthquake Geotechnical Engineering,(ICEGE 2019), June 17-20, 2019, Rome, Italy*'
+publication: ''
+doi: 10.34948/n3kw20
 links:
 - name: URL
-  url: https://escholarship.org/uc/item/5427j7f3
+  url: https://doi.org/10.34948/n3kw20
 ---

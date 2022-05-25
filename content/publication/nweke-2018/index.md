@@ -1,17 +1,17 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Applications of Non-ergodic Site Response in Ground Motion Modeling
+title: Reconsidering Basin Effects in Ergodic Site Response Models
 subtitle: ''
 summary: ''
 authors:
-- Jonathan Stewart
+- Chukwuebuka C Nweke
 - Pengfei Wang
-- David P Teague
-- Alessia Vecchietti
+- Scott J Brandenberg
+- Jonathan P Stewart
 tags: []
 categories: []
-date: '2019-01-01'
+date: '2018-01-01'
 lastmod: 2022-01-18T11:32:50-08:00
 featured: false
 draft: false
@@ -30,14 +30,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-18T19:32:50.535963Z'
+publishDate: '2022-01-18T19:32:50.693012Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Earthquake Geotechnical Engineering for Protection and Development
-  of Environment and Constructions: Proceedings of the 7th International Conference
-  on Earthquake Geotechnical Engineering,(ICEGE 2019), June 17-20, 2019, Rome, Italy*'
+publication: '*Proceeding of SMIP2018 Seminar on Utilization of Strong Motion Data,
+  California Strong Motion Instrumentation Program, Sacramento, CA. October 19.*'
 links:
 - name: URL
-  url: https://escholarship.org/uc/item/5427j7f3
+  url: https://escholarship.org/uc/item/6048v74k
 ---

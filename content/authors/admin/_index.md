@@ -70,5 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Pengfei Wang is a postdoctoral research scholar in Civil Engineering at the University of California, Los Angeles (UCLA). He recently graduated and received his Ph.D. also from UCLA. His research interests include Geotechnical Engineering, Engineering Seismology, and Applied Statistics, with emphases on non-ergodic site response models, earthquake ground motion processing and characterization, geo-spatial analysis, and statistical learning and modeling in engineering applications. 
+Pengfei Wang is a postdoctoral research scholar in Civil Engineering at the University of California, Los Angeles (UCLA), and an incoming assistant professor at Old Dominion University in Virginia in the Fall of 2022. He graduated and received his Ph.D. also from UCLA. His research interests include Geotechnical Engineering, Engineering Seismology, and Applied Statistics, emphasizing non-ergodic site response models, seismic hazard risk assessment, geo-spatial analysis, and statistical learning and modeling in engineering applications.
 

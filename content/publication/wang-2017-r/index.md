@@ -1,18 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Applications of Non-ergodic Site Response in Ground Motion Modeling
+title: R Package for Computation of Earthquake Ground Motion Response Spectra
 subtitle: ''
 summary: ''
 authors:
-- Jonathan Stewart
 - Pengfei Wang
-- David P Teague
-- Alessia Vecchietti
+- Jonathan P Stewart
+- Yousef Bozorgnia
+- David M Boore
+- Tadahiro Kishida
 tags: []
 categories: []
-date: '2019-01-01'
-lastmod: 2022-01-18T11:32:50-08:00
+date: '2017-01-01'
+lastmod: 2022-01-18T11:32:51-08:00
 featured: false
 draft: false
 
@@ -30,14 +31,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-18T19:32:50.535963Z'
+publishDate: '2022-01-18T19:32:51.523612Z'
 publication_types:
-- '1'
+- '4'
 abstract: ''
-publication: '*Earthquake Geotechnical Engineering for Protection and Development
-  of Environment and Constructions: Proceedings of the 7th International Conference
-  on Earthquake Geotechnical Engineering,(ICEGE 2019), June 17-20, 2019, Rome, Italy*'
-links:
-- name: URL
-  url: https://escholarship.org/uc/item/5427j7f3
+publication: ''
+url_pdf: https://peer.berkeley.edu/sites/default/files/2017_09_stewart_9.10.18.pdf
 ---

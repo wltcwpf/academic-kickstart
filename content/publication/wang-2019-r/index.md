@@ -1,18 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Applications of Non-ergodic Site Response in Ground Motion Modeling
+title: Shear Wave Velocity Database and its Application for Analysis of Non-ergodic
+  Site Amplification Effects
 subtitle: ''
 summary: ''
 authors:
-- Jonathan Stewart
 - Pengfei Wang
-- David P Teague
-- Alessia Vecchietti
+- Paolo Zimmaro
+- Sean K Ahdi
+- Dong Youp Kwak
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-01-18T11:32:50-08:00
+lastmod: 2022-01-18T11:32:51-08:00
 featured: false
 draft: false
 
@@ -30,14 +31,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-18T19:32:50.535963Z'
+publishDate: '2022-01-18T19:32:51.189538Z'
 publication_types:
-- '1'
+- '4'
 abstract: ''
-publication: '*Earthquake Geotechnical Engineering for Protection and Development
-  of Environment and Constructions: Proceedings of the 7th International Conference
-  on Earthquake Geotechnical Engineering,(ICEGE 2019), June 17-20, 2019, Rome, Italy*'
-links:
-- name: URL
-  url: https://escholarship.org/uc/item/5427j7f3
+publication: ''
+url_pdf: https://earthquake.usgs.gov/cfusion/external_grants/reports/G17AP00018.pdf
 ---

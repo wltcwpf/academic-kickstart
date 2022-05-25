@@ -1,18 +1,28 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Applications of Non-ergodic Site Response in Ground Motion Modeling
+title: Seismological, Geological, and Geotechnical Engineering Aspects of the 2018
+  MW 6.6 Hokkaido Eastern Iburi Earthquake
 subtitle: ''
 summary: ''
 authors:
-- Jonathan Stewart
+- Robert Kayen
+- Brad Wham
+- Alex R. R. Grant
+- Mikami Atsushi
+- Donald Anderson
+- Paolo Zimmaro
 - Pengfei Wang
-- David P Teague
-- Alessia Vecchietti
+- Yi Tyan Tsai
+- Jeff Bachhuber
+- Chris L M Madugo
+- Joseph Sun
+- Christopher S. Hitchcock
+- Matthew Motto
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-01-18T11:32:50-08:00
+lastmod: 2022-01-18T11:32:51-08:00
 featured: false
 draft: false
 
@@ -30,14 +40,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-18T19:32:50.535963Z'
+publishDate: '2022-01-18T19:32:51.365213Z'
 publication_types:
-- '1'
+- '4'
 abstract: ''
-publication: '*Earthquake Geotechnical Engineering for Protection and Development
-  of Environment and Constructions: Proceedings of the 7th International Conference
-  on Earthquake Geotechnical Engineering,(ICEGE 2019), June 17-20, 2019, Rome, Italy*'
+publication: ''
+doi: 10.18118/G6CM1K
 links:
 - name: URL
-  url: https://escholarship.org/uc/item/5427j7f3
+  url: https://doi.org/10.18118/G6CM1K
 ---

@@ -1,18 +1,26 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Applications of Non-ergodic Site Response in Ground Motion Modeling
+title: Preliminary Report on Engineering and Geological Effects of the July 2019 Ridgecrest
+  Earthquake Sequence
 subtitle: ''
 summary: ''
 authors:
-- Jonathan Stewart
+- Scott J Brandenberg
 - Pengfei Wang
-- David P Teague
-- Alessia Vecchietti
+- Chukwuebuka C Nweke
+- Kenneth Hudson
+- Silvia Mazzoni
+- Yousef Bozorgnia
+- Kenneth W Hudnut
+- Craig A Davis
+- Sean K Ahdi
+- Farzin Zareian
+- ' others'
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-01-18T11:32:50-08:00
+lastmod: 2022-01-18T11:32:51-08:00
 featured: false
 draft: false
 
@@ -30,14 +38,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-18T19:32:50.535963Z'
+publishDate: '2022-01-18T19:32:51.019529Z'
 publication_types:
-- '1'
+- '4'
 abstract: ''
-publication: '*Earthquake Geotechnical Engineering for Protection and Development
-  of Environment and Constructions: Proceedings of the 7th International Conference
-  on Earthquake Geotechnical Engineering,(ICEGE 2019), June 17-20, 2019, Rome, Italy*'
+publication: ''
+doi: 10.18118/G6H66K
 links:
 - name: URL
-  url: https://escholarship.org/uc/item/5427j7f3
+  url: https://doi.org/10.18118/G6H66K
 ---

@@ -1,17 +1,24 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Applications of Non-ergodic Site Response in Ground Motion Modeling
+title: Regional-Scale Geohazards Evaluation for Risk Assessment of Natural Gas Storage
+  and Transmission Infrastructure
 subtitle: ''
 summary: ''
 authors:
-- Jonathan Stewart
+- Paolo Zimmaro
 - Pengfei Wang
-- David P Teague
-- Alessia Vecchietti
+- Domniki Asimaki
+- Zach Bullock
+- Ellen M Rathje
+- Olaide Ojomo
+- Jennifer L Donahue
+- Yousef Bozorgnia
+- Ali Mosleh
+- Jonathan P Stewart
 tags: []
 categories: []
-date: '2019-01-01'
+date: '2021-01-01'
 lastmod: 2022-01-18T11:32:50-08:00
 featured: false
 draft: false
@@ -30,14 +37,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-18T19:32:50.535963Z'
+publishDate: '2022-01-18T19:32:50.205730Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Earthquake Geotechnical Engineering for Protection and Development
-  of Environment and Constructions: Proceedings of the 7th International Conference
-  on Earthquake Geotechnical Engineering,(ICEGE 2019), June 17-20, 2019, Rome, Italy*'
+publication: '*Geo-Extreme 2021: Case Histories and Best Practices*'
 links:
 - name: URL
-  url: https://escholarship.org/uc/item/5427j7f3
+  url: https://ascelibrary.org/doi/abs/10.1061/9780784483688.008
 ---
